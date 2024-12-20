@@ -25,8 +25,7 @@ Este projeto implementa um sistema de **detecção de objetos** utilizando o alg
 ## Como Usar
 1. Insira as imagens na pasta `inputs/`.
 2. Execute o script e visualize os resultados na pasta `outputs/`.
-
-```bash
+    ```bash
     python detect_objects.py --image inputs/sample.jpg
 
 ## Funcionalidades
