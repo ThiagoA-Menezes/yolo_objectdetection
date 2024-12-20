@@ -6,7 +6,7 @@
 Este projeto implementa um sistema de **detecção de objetos** utilizando o algoritmo YOLO (You Only Look Once). Ideal para aplicações em visão computacional, como segurança, monitoramento e análise de vídeo em tempo real.
 
 ## Demonstração
-![Demo] (https://b2633864.smushcdn.com/2633864/wp-content/uploads/2018/11/yolo_living_room_output.jpg?lossy=2&strip=1&webp=1)
+![Demo](https://b2633864.smushcdn.com/2633864/wp-content/uploads/2018/11/yolo_living_room_output.jpg?lossy=2&strip=1&webp=1)
 
 ## Instalação
 1. Clone o repositório:
