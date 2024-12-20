@@ -14,11 +14,15 @@ Este projeto implementa um sistema de **detecção de objetos** utilizando o alg
    ```bash
    git clone https://github.com/ThiagoA-Menezes/yolo_objectdetection.git
 
-2. Instale as dependências:
+2. Inicie o Virtual Environment:
+   ```bash   
+   source yolo_venv/bin/activate
+
+3. Instale as dependências:
    ```bash
    pip install -r requirements.txt
 
-3. Execute o Projeto
+4. Execute o Projeto
    ```bash
    python main.py
 
