@@ -15,7 +15,7 @@ Este projeto implementa um sistema de **detecção de objetos** utilizando o alg
 
 2. Criei um ambiente virtual
    ```bash
-   python -m venv
+   python -m venv yolo_venv
 
 3. Inicie o Virtual Environment:
    ```bash   
