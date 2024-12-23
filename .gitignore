@@ -1,3 +1,4 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
 # Python
 *.py[cod]
 __pycache__/
@@ -17,6 +18,12 @@ coverage.xml
 .hypothesis/
 *.tox/
 
-# Imagens e XMLs
+#images and XMLs
 *.xml
 *.jpg
+
+# Text Files
+*.txt
+
+# Folders
+/yolo_venv/*
