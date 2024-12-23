@@ -1,0 +1,22 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.pyd
+
+# Virtual Environment
+.venv/
+env/
+ENV/
+
+# Configuração de Ferramentas
+.mypy_cache/
+.pytest_cache/
+coverage.xml
+*.cover
+.hypothesis/
+*.tox/
+
+# Imagens e XMLs
+*.xml
+*.jpg
