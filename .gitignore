@@ -17,14 +17,19 @@ coverage.xml
 *.cover
 .hypothesis/
 *.tox/
+Yolo/pyvenv.cfg
 
 #images and XMLs
 *.xml
 *.jpg
-*.jpeg
 
 # Text Files
 *.txt
 
 # Folders
-/yolo_venv/*
+yolov5/
+Yolo/yolo_venv/include
+Yolo/yolo_venv/lib
+Yolo/yolo_venv/share
+Yolo/yolo_venv/bin
+/yolo_venv/resources/1_datapreparation/data_images
