@@ -54,4 +54,4 @@ Contributions são bem-vindas! Siga os passos abaixo:
 
 ## Contato
 Thiago Menezes - [LinkedIn](https://www.linkedin.com/in/thiagoamenezes/)  
-Email: assis.thiago@gmail.com /
+Email: assis.thiago@gmail.com 
