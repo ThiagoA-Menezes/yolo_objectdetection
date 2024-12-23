@@ -22,14 +22,15 @@ Yolo/pyvenv.cfg
 #images and XMLs
 *.xml
 *.jpg
+*.jpeg
 
 # Text Files
 *.txt
 
 # Folders
 yolov5/
-Yolo/yolo_venv/include
-Yolo/yolo_venv/lib
-Yolo/yolo_venv/share
-Yolo/yolo_venv/bin
-/yolo_venv/resources/1_datapreparation/data_images
+yolo_venv/include
+yolo_venv/lib
+yolo_venv/share
+yolo_venv/bin
+yolo_venv/resources/1_datapreparation/data_images
