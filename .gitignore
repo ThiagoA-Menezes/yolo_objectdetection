@@ -21,6 +21,7 @@ coverage.xml
 #images and XMLs
 *.xml
 *.jpg
+*.jpeg
 
 # Text Files
 *.txt
